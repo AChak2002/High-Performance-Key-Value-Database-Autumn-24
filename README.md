@@ -1,0 +1,1 @@
+As part of a self-chosen course project for the Design Optimization of Computer Systems (CS60203) supervised by Prof Mainack Mondal, I built a high-performance key-value database with an optimized storage engine using LSM Trees, caching, concurrency control for efficient processing of low-latency high-throughput write-heavy workloads.
